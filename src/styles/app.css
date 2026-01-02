@@ -1,0 +1,8 @@
+.app { padding: 20px; }
+.node { border: 2px solid #333; padding: 10px; margin: 10px; border-radius: 8px; width: 220px; }
+.node.action { background: #e3f2fd; }
+.node.branch { background: #fff3e0; }
+.node.end { background: #e8f5e9; }
+.children { margin-left: 40px; border-left: 2px dashed #999; padding-left: 20px; }
+.actions button { margin-right: 5px; }
+.delete { background: #e53935; color: white; }
